@@ -1,0 +1,70 @@
+parent.0 = ../../gp/koza/koza.params
+
+
+# User added info
+generations		= 500
+quit-on-run-complete	= true
+# End User added info
+
+# Stolen from koza/params -- overwriting just
+# a little for readability
+# You need to create at least one function set, 
+# called "f0", which your first tree will use.  
+
+gp.fs.size = 1
+gp.fs.0.name = f0
+gp.fs.0.info = ec.gp.GPFuncInfo
+
+### The functions, carefully ordered :-)  (See below)
+
+#gp.fs.0.func.0 = ec.app.ant.func.Left
+#gp.fs.0.func.0.nc = nc0
+#gp.fs.0.func.1 = ec.app.ant.func.Right
+#gp.fs.0.func.1.nc = nc0
+gp.fs.0.func.0 = ec.app.ant.func.GoAroundWall
+gp.fs.0.func.0.nc = nc0
+gp.fs.0.func.1 = ec.app.ant.func.SniffForFood
+gp.fs.0.func.1.nc = nc2
+gp.fs.0.func.2 = ec.app.ant.func.Move
+gp.fs.0.func.2.nc = nc0
+gp.fs.0.func.3 = ec.app.ant.func.IfPathAhead 
+gp.fs.0.func.3.nc = nc2 
+gp.fs.0.func.4 = ec.app.ant.func.IfFoodAhead
+gp.fs.0.func.4.nc = nc2
+gp.fs.0.func.5 = ec.app.ant.func.Progn2
+gp.fs.0.func.5.nc = nc2
+gp.fs.0.func.6 = ec.app.ant.func.Progn3
+gp.fs.0.func.6.nc = nc3
+# We won't use this one here
+gp.fs.0.func.7 = ec.app.ant.func.Progn4
+gp.fs.0.func.7.nc = nc4
+
+pop.subpop.0.size               = 200
+pop.subpop.0.species.genome-size        = 200
+pop.subpop.0.species.crossover-type     = one
+pop.subpop.0.species.crossover-prob     = 1.0
+pop.subpop.0.species.mutation-prob      = 0.01
+pop.subpop.0.duplicate-retries 	= 5
+
+#
+# We specify our problem here
+#
+
+eval.problem = ec.app.ant.Ant
+eval.problem.data = ec.app.ant.AntData
+# ADFs use the same data type typically -- we need to include
+# this even if we're not implementing ADFs
+eval.problem.stack.context.data = ec.app.ant.AntData
+
+# We have our own kind of statistics
+stat = ec.app.ant.AntStatistics
+
+
+# Here we determine what kind of Ant we're doing:
+
+# no progn4, 500 moves, Santa Fe trail
+gp.fs.0.size = 7
+eval.problem.moves = 400
+#Set moves to 1 to use 8*food on map turns
+#320 is min moves w/o WALL and 28 pop
+eval.problem.file = ANC.trl

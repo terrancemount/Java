@@ -1,0 +1,4 @@
+200 pop
+1500 moves
+
+New map at 0,1, and 113

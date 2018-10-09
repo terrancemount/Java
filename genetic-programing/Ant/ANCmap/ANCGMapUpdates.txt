@@ -1,0 +1,953 @@
+Generation 0
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 130.5 adjusted: 0.008336273 hits: 20.5
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=22.0 Adjusted=0.04347826 Hits=129
+Tree 0:
+ (sniff-for-food move (progn3 go-around-wall
+     move (if-path-ahead move (sniff-for-food
+     go-around-wall go-around-wall))))
+
+Best Individual's Map
+=====================
+acde..................................................................
+...f..................................uvwxyz..........................
+...g..................................t....a..........................
+...h..................................s....b..........................
+...ijklmnopqr...........defghijklmnopqr....c..........................
+............s...........c..................d..........................
+............t...........b..................e..........................
+............u...........a..................f..........................
+............v...........z..................g..........................
+............w...........y..................h..........................
+............x...........x..................i..........................
+............y...........w..................j..........................
+............z...........v..................k..........................
+............a...........u............rqponml..........................
+............b......WWW++t............s................................
+............c......WWW..s............t................................
+............d......WWW..r............uvwxy............................
+............e.......mnopq.........WWWWW++z............................
+............f.......l.............WWWWW..a............................
+............g.......k.............WWWWW..b............................
+............h.......j.............WWWWW..c............................
+............i.......i.............WWWWWfed............................
+............j.......h................u.g..............................
+.vutsrqponmlk.......g................v.h..............................
+.w..................f................w.i..............................
+.x..................e................x.j..............................
+.y..................d................y.k..............................
+.z..................c................z.l..............................
+.a..................b..............cbanm..............................
+.b.....nopqrstuvwxyza..............dWWWWWW............................
+.c.....m...........................eWWWWWW............................
+.d.....l...........................fWWWWWW............................
+.efghijk...........................g.#................................
+...................................h+#................................
+...................................i..................................
+...................................j..................................
+...................................k..................................
+...................................l..................................
+...................................m..................................
+...................................n..................................
+...................................o..................................
+..............................utsrqp..................................
+..............................v.......................................
+..............................w.......................................
+..............................x.......................................
+..............................y.......................................
+..............................z.......................................
+..............................a.......................................
+..............................b.......................................
+............................#+c.......................................
+............................#.d.......................................
+............................#.e.......................................
+............................#.f.......................................
+............................#.g.......................................
+............................#.h.......................................
+......................+#####kji.......................................
+......................+...............................................
+......................#...............................................
+......................#...............................................
+......................#...............................................
+......................#...............................................
+......................#...............................................
+......................#...............................................
+......................#...............................................
+......................#...............................................
+......................#...............................................
+......................................................................
+......................................................................
+......................................................................
+......................................................................
+Generation 1
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 99.932 adjusted: 0.011685902 hits: 51.068
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=22.0 Adjusted=0.04347826 Hits=129
+Tree 0:
+ (sniff-for-food move (progn3 go-around-wall
+     move (sniff-for-food move go-around-wall)))
+
+
+
+Generation 2
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 83.016 adjusted: 0.015369953 hits: 67.984
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=22.0 Adjusted=0.04347826 Hits=129
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn2 (sniff-for-food
+     (progn2 go-around-wall go-around-wall) (progn3
+     go-around-wall move move)) (if-path-ahead
+     go-around-wall (if-food-ahead (progn3 (progn3
+     go-around-wall go-around-wall go-around-wall)
+     (sniff-for-food move move) (progn3 move go-around-wall
+     move)) move))) move) (progn2 go-around-wall
+     move))
+
+
+
+Generation 3
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 68.404 adjusted: 0.021461653 hits: 82.596
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=9.0 Adjusted=0.1 Hits=142
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn2 (sniff-for-food
+     (progn2 go-around-wall go-around-wall) (progn3
+     go-around-wall move move)) (if-path-ahead
+     go-around-wall (if-food-ahead move move)))
+     move) (progn3 (if-food-ahead move (if-path-ahead
+     (if-food-ahead move move) (progn3 go-around-wall
+     move go-around-wall))) (if-path-ahead go-around-wall
+     (if-food-ahead move move)) (progn2 (sniff-for-food
+     (if-food-ahead go-around-wall move) go-around-wall)
+     move)))
+
+Best Individual's Map
+=====================
+acde..................................bc..............................
+...f..................................adefgh..........................
+...g..................................z....i..........................
+...h..................................y....j..........................
+...ijklmnopqr...........jklmnopqrstuvwx....k..........................
+............s...........i..................l..........................
+............t...........h..................m..........................
+............u...........g..................n..........................
+............v...........f..................o..........................
+............w...........e..................p..........................
+............x...........d..................q..........................
+............y...........c..................r..........................
+............z...........b..................s..........................
+............a...........az..........cbazyxwt..........................
+............b......WWW+++y..........defghiju..........................
+............c......WWW...x...........+....k...........................
+............d......WWW...w...........+....l...........................
+............e.......qrstuv........WWWWW+++m...........................
+............f.......p.............WWWWWqpon...........................
+............g.......o.............WWWWWr.+............................
+............h.......n.............WWWWWs.+............................
+............i.......m.............WWWWWtu+............................
+............j.......l................mlkji............................
+.xwvutsrqponk.......k................n..wh............................
+.y.........ml.......j................o..xg............................
+.z..................i................p..yf............................
+.a..................h................q..ze............................
+.b..................g................r..ad............................
+.c.....qr...........f..............uts..bc............................
+.d.....pstuvwxyzabcde..............vWWWWWW............................
+.e.....o...........................wWWWWWW............................
+.f.....n...........................xWWWWWW............................
+.ghijklm...........................y.#................................
+...................................z+#................................
+...................................a..................................
+...................................b..................................
+...................................c..................................
+...................................d..................................
+...................................e..................................
+...................................f..................................
+...................................g..................................
+..............................mlkjih..................................
+..............................n.......................................
+..............................o.......................................
+..............................p.......................................
+..............................q.......................................
+..............................r.......................................
+..............................s.......................................
+..............................t.......................................
+............................#+u.......................................
+............................#.v.......................................
+............................#.w.......................................
+............................#.x.......................................
+............................#.y.......................................
+............................#.z.......................................
+.....................lkjihgf#.a.......................................
+.....................m+....edcb.......................................
+.....................nq...............................................
+.....................or...............................................
+......................s...............................................
+......................t...............................................
+......................u...............................................
+......................v...............................................
+......................w...............................................
+......................x...............................................
+......................yza.............................................
+......................................................................
+......................................................................
+......................................................................
+......................................................................
+Generation 0
+================
+Generation 4
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 56.588 adjusted: 0.029781356 hits: 94.412
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=9.0 Adjusted=0.1 Hits=142
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn2 (sniff-for-food
+     (progn2 go-around-wall go-around-wall) (progn3
+     go-around-wall move move)) (if-path-ahead
+     go-around-wall (if-food-ahead move move)))
+     move) (progn3 (if-food-ahead move (if-path-ahead
+     (if-food-ahead move move) (progn3 go-around-wall
+     move go-around-wall))) (if-path-ahead go-around-wall
+     (if-food-ahead move move)) (progn2 (sniff-for-food
+     (if-food-ahead go-around-wall move) go-around-wall)
+     move)))
+
+
+
+Generation 5
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 45.308 adjusted: 0.039484214 hits: 105.692
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=9.0 Adjusted=0.1 Hits=142
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn2 (progn2
+     go-around-wall go-around-wall) (if-path-ahead
+     go-around-wall (if-food-ahead move move)))
+     move) (progn3 (if-food-ahead move (if-path-ahead
+     (if-food-ahead move move) (progn3 go-around-wall
+     move go-around-wall))) (if-path-ahead go-around-wall
+     (if-food-ahead move move)) (progn2 (sniff-for-food
+     (if-food-ahead go-around-wall move) go-around-wall)
+     move)))
+
+
+
+Generation 6
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 37.988 adjusted: 0.051388424 hits: 113.012
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=9.0 Adjusted=0.1 Hits=142
+Tree 0:
+ (sniff-for-food (if-food-ahead move move)
+     (progn3 (if-food-ahead move (if-path-ahead
+         (if-food-ahead move move) (progn3 go-around-wall
+         move go-around-wall))) (if-path-ahead (sniff-for-food
+         (sniff-for-food move move) go-around-wall)
+         (if-food-ahead move move)) (progn2 (sniff-for-food
+         (if-food-ahead go-around-wall move) go-around-wall)
+         move)))
+
+
+
+Generation 7
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 37.728 adjusted: 0.06202001 hits: 113.272
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=9.0 Adjusted=0.1 Hits=142
+Tree 0:
+ (sniff-for-food (if-path-ahead (sniff-for-food
+     (progn2 (sniff-for-food (progn2 (if-path-ahead
+         go-around-wall move) go-around-wall) (progn3
+         go-around-wall move move)) (if-path-ahead
+         (progn2 go-around-wall move) move)) (progn2
+     go-around-wall move)) move) (progn3 (if-food-ahead
+     move (if-path-ahead (if-food-ahead move move)
+     (progn3 go-around-wall move go-around-wall)))
+     (if-path-ahead go-around-wall (if-food-ahead
+         move (if-food-ahead move move))) (progn2
+     (sniff-for-food (if-food-ahead go-around-wall
+         move) go-around-wall) move)))
+
+
+
+Generation 8
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 40.412 adjusted: 0.06072761 hits: 110.588
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=7.0 Adjusted=0.125 Hits=144
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn2 (sniff-for-food
+     (progn3 go-around-wall move go-around-wall)
+     (progn3 go-around-wall move move)) (if-path-ahead
+     go-around-wall (if-food-ahead move move)))
+     move) (progn3 (if-food-ahead move (if-path-ahead
+     (progn2 move (sniff-for-food move go-around-wall))
+     (progn3 go-around-wall move go-around-wall)))
+     (if-path-ahead (sniff-for-food (sniff-for-food
+         move go-around-wall) go-around-wall) (if-food-ahead
+         move move)) (progn2 (sniff-for-food (if-food-ahead
+     move (if-path-ahead (if-food-ahead move move)
+     (progn3 go-around-wall move go-around-wall)))
+     go-around-wall) move)))
+
+
+
+Generation 9
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 33.576 adjusted: 0.07150263 hits: 117.424
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=2.0 Adjusted=0.33333334 Hits=149
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn2 (sniff-for-food
+     (progn3 go-around-wall move go-around-wall)
+     (progn3 go-around-wall move move)) (if-path-ahead
+     go-around-wall (if-food-ahead move move)))
+     move) (progn3 (if-food-ahead move (if-path-ahead
+     (progn2 move (sniff-for-food move go-around-wall))
+     (progn3 go-around-wall move go-around-wall)))
+     (if-path-ahead (if-food-ahead move move)
+         (if-food-ahead move move)) (progn2 (sniff-for-food
+     (if-food-ahead move (if-path-ahead (if-food-ahead
+         move move) (progn3 go-around-wall move go-around-wall)))
+     go-around-wall) move)))
+
+
+
+Generation 10
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 29.936 adjusted: 0.08055848 hits: 121.064
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=2.0 Adjusted=0.33333334 Hits=149
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn2 (sniff-for-food
+     (progn3 go-around-wall move go-around-wall)
+     (progn3 go-around-wall move move)) (if-path-ahead
+     go-around-wall (if-food-ahead move move)))
+     move) (progn3 (if-food-ahead move (if-path-ahead
+     (progn2 move (sniff-for-food move go-around-wall))
+     (progn3 go-around-wall move go-around-wall)))
+     (if-path-ahead (if-food-ahead move move)
+         (if-food-ahead move move)) (progn2 (sniff-for-food
+     (if-food-ahead move (if-path-ahead (if-food-ahead
+         move move) (progn3 go-around-wall move go-around-wall)))
+     go-around-wall) move)))
+
+Best Individual's Map
+=====================
+acde..................................................................
+...f..................................wxyzab..........................
+...g..................................v....c..........................
+...h..................................u....d..........................
+...ijklmnopqr...........fghijklmnopqrst....e..........................
+............s...........e..................f..........................
+............t...........d..................g..........................
+............u...........c..................h..........................
+............v...........b..................i..........................
+............w...........a..................j..........................
+............x...........z..................k..........................
+............y...........y..................l..........................
+............z...........x..................m..........................
+............a...........wv...........tsrqpon..........................
+............b......WWW+++u...........u................................
+............c......WWW...t...........v................................
+............d......WWW...s...........wxyza............................
+............e.......mnopqr........WWWWW++b............................
+............f.......l.............WWWWW..c............................
+............g.......k.............WWWWW..d............................
+............h.......j.............WWWWW..e............................
+............i.......i.............WWWWWhgf............................
+............j.......h................yxwv.............................
+.vutsrqponmlk.......g................z.ju.............................
+.w..................f................a.kt.............................
+.x..................e................b.ls.............................
+.y..................d................c.mr.............................
+.z..................c................d.nq.............................
+.a..................b..............gfe.op.............................
+.b.....nopqrstuvwxyza..............hWWWWWW............................
+.c.....m...........................iWWWWWW............................
+.d.....l...........................jWWWWWW............................
+.efghijk...........................k.#................................
+...................................l+#................................
+............................r......m..................................
+............................q......n..................................
+............................p......o..................................
+............................o......p..................................
+............................n......q..................................
+............................m......r..................................
+............................l......s..................................
+............................k.yxwvut..................................
+............................j.z.......................................
+............................i.a.......................................
+............................h.b.......................................
+............................g.c.......................................
+............................f.d.......................................
+............................e.e.......................................
+............................d.f.......................................
+............................c+g.......................................
+............................b.h.......................................
+............................a.i.......................................
+............................z.j.......................................
+............................y.k.......................................
+............................x.l.......................................
+......................wvutsrw.m.......................................
+......................x....qvon.......................................
+......................y.....u.........................................
+......................z.....t.........................................
+......................a.....s.........................................
+......................b.....r.........................................
+......................c.....q.........................................
+......................d.....p.........................................
+......................e.....o.........................................
+......................f.....n.........................................
+......................ghijklm.........................................
+......................................................................
+......................................................................
+......................................................................
+......................................................................
+Generation 110
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 11.72 adjusted: 0.29111433 hits: 139.28
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=2.0 Adjusted=0.33333334 Hits=149
+Tree 0:
+ (sniff-for-food (if-path-ahead (if-path-ahead
+     (progn2 move (sniff-for-food (sniff-for-food
+         move go-around-wall) (if-path-ahead go-around-wall
+         move))) (sniff-for-food (progn2 (sniff-for-food
+     (progn2 move (sniff-for-food move go-around-wall))
+     go-around-wall) move) (if-food-ahead move
+     (if-food-ahead move move)))) move) (progn3
+     (if-food-ahead move (if-path-ahead (progn2
+         move (sniff-for-food move go-around-wall))
+         (progn3 go-around-wall move go-around-wall)))
+     (if-food-ahead move move) (progn2 (sniff-for-food
+     (if-food-ahead move (progn3 (if-food-ahead
+         move (sniff-for-food (if-food-ahead move
+         move) go-around-wall)) (if-food-ahead move
+         (if-food-ahead move (if-path-ahead (progn2
+             (progn3 go-around-wall move go-around-wall)
+             (sniff-for-food move go-around-wall)) (progn2
+             move (sniff-for-food move go-around-wall)))))
+         (progn2 (sniff-for-food (progn2 move (sniff-for-food
+             move go-around-wall)) go-around-wall) move)))
+     go-around-wall) move)))
+
+
+
+Generation 111
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 14.38 adjusted: 0.28342038 hits: 136.62
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=2.0 Adjusted=0.33333334 Hits=149
+Tree 0:
+ (sniff-for-food (if-path-ahead (if-path-ahead
+     (progn2 move (progn2 (sniff-for-food (sniff-for-food
+         move go-around-wall) (progn2 (if-food-ahead
+         move move) move)) move)) (sniff-for-food
+     (if-path-ahead (sniff-for-food move go-around-wall)
+         go-around-wall) (progn3 (if-food-ahead move
+     (if-food-ahead move (if-path-ahead (progn2
+         move (sniff-for-food move go-around-wall))
+         (progn3 go-around-wall move go-around-wall))))
+     (progn2 go-around-wall go-around-wall) (progn2
+     (sniff-for-food move go-around-wall) move))))
+     move) (progn3 (if-food-ahead move (if-path-ahead
+     (progn2 move (sniff-for-food move go-around-wall))
+     (progn3 go-around-wall move go-around-wall)))
+     (if-food-ahead move move) (progn2 (sniff-for-food
+     (if-food-ahead move (progn3 (progn2 (sniff-for-food
+         (if-path-ahead go-around-wall (progn3 go-around-wall
+             move go-around-wall)) go-around-wall) (sniff-for-food
+         (if-food-ahead move (if-food-ahead move move))
+         go-around-wall)) (if-food-ahead move (progn3
+         go-around-wall move (progn2 go-around-wall
+         go-around-wall))) (progn2 (sniff-for-food
+         (sniff-for-food (if-path-ahead (progn2 (if-food-ahead
+             go-around-wall move) go-around-wall) move)
+             go-around-wall) go-around-wall) move))) go-around-wall)
+     move)))
+
+
+
+Generation 112
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 9.888 adjusted: 0.29464576 hits: 141.112
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=2.0 Adjusted=0.33333334 Hits=149
+Tree 0:
+ (sniff-for-food (if-path-ahead (if-path-ahead
+     (progn2 move (sniff-for-food (if-path-ahead
+         (sniff-for-food move go-around-wall) move)
+         (progn3 (if-path-ahead (progn2 (progn3 (if-food-ahead
+             move (if-path-ahead (sniff-for-food move
+             go-around-wall) go-around-wall)) go-around-wall
+             (sniff-for-food move go-around-wall)) (if-food-ahead
+             move (if-path-ahead go-around-wall move)))
+             (sniff-for-food (if-food-ahead move (if-food-ahead
+                 move (if-path-ahead (progn2 go-around-wall
+                 go-around-wall) move))) go-around-wall))
+             (if-path-ahead (sniff-for-food (sniff-for-food
+                 (if-path-ahead go-around-wall (progn3 go-around-wall
+                     move go-around-wall)) go-around-wall) (if-path-ahead
+                 (progn2 (sniff-for-food (if-food-ahead move
+                     move) go-around-wall) move) move)) (if-food-ahead
+                 move move)) (progn2 go-around-wall go-around-wall))))
+     (sniff-for-food (progn2 (sniff-for-food (if-path-ahead
+         (if-path-ahead (progn2 (progn3 (sniff-for-food
+             (if-path-ahead go-around-wall (if-food-ahead
+                 move move)) go-around-wall) (if-path-ahead
+             (if-food-ahead move (if-path-ahead (progn2
+                 (progn3 go-around-wall move go-around-wall)
+                 (sniff-for-food move go-around-wall)) (progn2
+                 move (sniff-for-food move go-around-wall))))
+             (if-food-ahead (if-food-ahead move move)
+                 move)) (progn2 (sniff-for-food (sniff-for-food
+             go-around-wall (if-food-ahead move move))
+             go-around-wall) move)) (sniff-for-food (if-path-ahead
+             (progn2 (sniff-for-food (if-food-ahead move
+                 move) go-around-wall) move) move) move))
+             (sniff-for-food (progn2 go-around-wall go-around-wall)
+                 go-around-wall)) (progn2 move (sniff-for-food
+         (if-food-ahead move (if-path-ahead go-around-wall
+             move)) go-around-wall))) go-around-wall)
+         move) (sniff-for-food (sniff-for-food move
+         go-around-wall) go-around-wall))) move) (progn3
+     (if-food-ahead move (if-path-ahead (progn2
+         move (sniff-for-food move go-around-wall))
+         (progn3 go-around-wall move go-around-wall)))
+     (if-food-ahead move move) (progn2 (sniff-for-food
+     (if-food-ahead move (progn3 move (if-food-ahead
+         move (if-path-ahead go-around-wall (if-food-ahead
+         move move))) (sniff-for-food move go-around-wall)))
+     go-around-wall) move)))
+
+
+
+Generation 113
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 9.292 adjusted: 0.2950977 hits: 141.708
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=2.0 Adjusted=0.33333334 Hits=149
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn3 (if-food-ahead
+     move (if-path-ahead (sniff-for-food (progn2
+     (sniff-for-food (if-path-ahead (if-food-ahead
+         move move) (if-food-ahead move move)) go-around-wall)
+     move) (progn2 (sniff-for-food (if-path-ahead
+     (sniff-for-food move go-around-wall) move)
+     go-around-wall) move)) (if-path-ahead go-around-wall
+     move))) (if-path-ahead go-around-wall (if-food-ahead
+     (sniff-for-food (sniff-for-food move go-around-wall)
+         go-around-wall) (sniff-for-food (if-food-ahead
+     move (progn2 move (sniff-for-food move go-around-wall)))
+     go-around-wall))) (sniff-for-food (progn2
+     (sniff-for-food (if-food-ahead move (if-path-ahead
+         (progn2 move (sniff-for-food move go-around-wall))
+         move)) go-around-wall) move) (progn3 (if-food-ahead
+     move (if-path-ahead (progn2 move (sniff-for-food
+     move (progn2 go-around-wall go-around-wall)))
+     (progn3 go-around-wall move go-around-wall)))
+     (if-path-ahead (if-food-ahead move move)
+         (if-food-ahead move (if-food-ahead move (if-path-ahead
+             (if-food-ahead move (progn2 (progn2 go-around-wall
+                 move) (if-path-ahead go-around-wall (if-food-ahead
+                 move move)))) move)))) (progn2 (progn3 move
+     (if-path-ahead (progn3 go-around-wall move
+         go-around-wall) (if-food-ahead (progn3 go-around-wall
+         move go-around-wall) move)) (progn2 (sniff-for-food
+     (sniff-for-food (if-food-ahead move move)
+         (progn2 go-around-wall go-around-wall)) go-around-wall)
+     move)) (sniff-for-food move go-around-wall)))))
+     (if-food-ahead move move)) (progn3 (if-food-ahead
+     move (if-path-ahead (progn2 move (sniff-for-food
+     move go-around-wall)) (progn3 go-around-wall
+     move go-around-wall))) (if-food-ahead (progn2
+     (sniff-for-food (if-path-ahead (if-path-ahead
+         (progn2 move (sniff-for-food move go-around-wall))
+         (progn2 move (progn3 (if-food-ahead move
+             (progn3 (progn3 (if-food-ahead move (sniff-for-food
+                 (if-food-ahead move move) go-around-wall))
+                 (if-path-ahead (if-food-ahead move (if-food-ahead
+                     move move)) (if-food-ahead move (if-food-ahead
+                     move move))) move) (if-path-ahead go-around-wall
+                 (if-path-ahead (if-food-ahead move (if-path-ahead
+                     (progn3 go-around-wall move go-around-wall)
+                     (sniff-for-food move go-around-wall))) (if-path-ahead
+                     go-around-wall move))) (if-food-ahead move
+                 (progn2 go-around-wall go-around-wall))))
+             (progn2 (sniff-for-food (progn2 go-around-wall
+                 go-around-wall) go-around-wall) move) (sniff-for-food
+             (sniff-for-food (if-path-ahead (progn2 (sniff-for-food
+                 (if-food-ahead move move) go-around-wall)
+                 move) move) move) go-around-wall)))) (if-food-ahead
+         move (if-path-ahead (progn2 move (sniff-for-food
+         move go-around-wall)) (progn3 go-around-wall
+         move go-around-wall)))) go-around-wall) move)
+     move) (progn2 (sniff-for-food (if-path-ahead
+     (sniff-for-food (sniff-for-food (sniff-for-food
+         move go-around-wall) (progn3 (if-food-ahead
+         move (if-food-ahead move (progn3 go-around-wall
+         (progn2 move (sniff-for-food move go-around-wall))
+         go-around-wall))) (sniff-for-food (sniff-for-food
+         (progn3 go-around-wall move go-around-wall)
+         move) (sniff-for-food (progn2 (sniff-for-food
+         (if-food-ahead move move) go-around-wall)
+         move) (sniff-for-food (progn2 (sniff-for-food
+         move go-around-wall) move) go-around-wall)))
+         (sniff-for-food (sniff-for-food move go-around-wall)
+             go-around-wall))) (progn3 go-around-wall
+         move go-around-wall)) move) go-around-wall)
+     move)))
+
+
+
+Generation 114
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 9.504 adjusted: 0.29204726 hits: 141.496
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=2.0 Adjusted=0.33333334 Hits=149
+Tree 0:
+ (sniff-for-food (if-path-ahead (if-path-ahead
+     (progn2 move (sniff-for-food (if-food-ahead
+         move move) (if-food-ahead move (progn2 (sniff-for-food
+         (if-path-ahead (if-food-ahead move move)
+             (if-food-ahead move move)) go-around-wall)
+         move)))) (sniff-for-food (progn2 (sniff-for-food
+     (if-path-ahead (if-path-ahead (progn2 (progn3
+         (if-path-ahead go-around-wall (if-food-ahead
+             move move)) (if-path-ahead (if-food-ahead
+         move (if-path-ahead (progn2 move (sniff-for-food
+         move go-around-wall)) (progn2 move (sniff-for-food
+         move go-around-wall)))) (if-food-ahead move
+         move)) (progn2 move go-around-wall)) (if-path-ahead
+         go-around-wall (sniff-for-food move go-around-wall)))
+         (if-food-ahead move move)) (sniff-for-food
+         move go-around-wall)) go-around-wall) move)
+     (progn3 (if-food-ahead move (sniff-for-food
+         (progn3 go-around-wall move go-around-wall)
+         go-around-wall)) (progn3 go-around-wall move
+         go-around-wall) (if-path-ahead (sniff-for-food
+         (sniff-for-food (progn2 move (if-food-ahead
+             move (sniff-for-food (sniff-for-food (sniff-for-food
+             go-around-wall (if-food-ahead move move))
+             go-around-wall) go-around-wall))) go-around-wall)
+         (progn2 move (sniff-for-food move go-around-wall)))
+         (if-food-ahead move move))))) move) (progn3
+     (if-food-ahead move (if-path-ahead (progn2
+         move (sniff-for-food move go-around-wall))
+         (progn3 go-around-wall move go-around-wall)))
+     (if-food-ahead move move) (progn2 (sniff-for-food
+     (if-food-ahead move (progn3 (if-food-ahead
+         move (if-path-ahead (progn3 (if-food-ahead
+         move (progn3 go-around-wall move go-around-wall))
+         (if-path-ahead (sniff-for-food (sniff-for-food
+             (if-path-ahead go-around-wall (progn3 go-around-wall
+                 move go-around-wall)) go-around-wall) (progn2
+             move (sniff-for-food move go-around-wall)))
+             (if-food-ahead move move)) (progn2 (progn3
+         go-around-wall move go-around-wall) move))
+         (progn3 go-around-wall move go-around-wall)))
+         (sniff-for-food (if-path-ahead (if-food-ahead
+             (progn3 go-around-wall move go-around-wall)
+             move) (sniff-for-food (progn2 go-around-wall
+             go-around-wall) go-around-wall)) (if-food-ahead
+             move move)) (progn2 move move))) go-around-wall)
+     move)))
+
+
+
+Generation 115
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 10.248 adjusted: 0.2933263 hits: 140.752
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=2.0 Adjusted=0.33333334 Hits=149
+Tree 0:
+ (sniff-for-food (if-path-ahead (if-path-ahead
+     (progn2 move (sniff-for-food (if-path-ahead
+         (sniff-for-food move go-around-wall) move)
+         (progn3 (if-path-ahead (progn2 (sniff-for-food
+             (sniff-for-food (if-path-ahead (if-food-ahead
+                 (progn3 go-around-wall move go-around-wall)
+                 move) (progn2 move go-around-wall)) (if-food-ahead
+                 move move)) go-around-wall) move) (if-path-ahead
+             go-around-wall (sniff-for-food move go-around-wall)))
+             (if-path-ahead (sniff-for-food (sniff-for-food
+                 (if-path-ahead go-around-wall (progn3 go-around-wall
+                     move go-around-wall)) go-around-wall) (if-path-ahead
+                 (progn2 (sniff-for-food (sniff-for-food (if-food-ahead
+                     move move) go-around-wall) go-around-wall)
+                     move) move)) (if-food-ahead move move)) (progn2
+             go-around-wall go-around-wall)))) (sniff-for-food
+     (progn2 (sniff-for-food (if-path-ahead (if-path-ahead
+         (progn2 (progn3 (sniff-for-food (if-path-ahead
+             go-around-wall (if-food-ahead go-around-wall
+             move)) go-around-wall) (if-path-ahead (if-food-ahead
+             move (if-path-ahead (progn2 move (sniff-for-food
+             go-around-wall go-around-wall)) (progn2 move
+             (sniff-for-food move go-around-wall)))) (if-food-ahead
+             (if-food-ahead move move) move)) (progn2
+             (sniff-for-food move go-around-wall) move))
+             (sniff-for-food (if-path-ahead (progn2 (sniff-for-food
+                 (if-food-ahead move move) go-around-wall)
+                 move) move) move)) (if-food-ahead move move))
+         (progn2 move (progn2 (progn3 (if-food-ahead
+             move (progn3 go-around-wall move go-around-wall))
+             (if-path-ahead (progn3 go-around-wall move
+                 go-around-wall) (if-food-ahead move move))
+             (progn2 (sniff-for-food (if-food-ahead go-around-wall
+                 move) go-around-wall) move)) (if-path-ahead
+             (if-food-ahead move move) (sniff-for-food
+             move go-around-wall))))) go-around-wall)
+         move) (sniff-for-food (sniff-for-food move
+     go-around-wall) go-around-wall))) move) (progn3
+     (if-food-ahead move (if-path-ahead (progn2
+         move (sniff-for-food move go-around-wall))
+         (progn3 go-around-wall move go-around-wall)))
+     (if-food-ahead move move) (progn2 (sniff-for-food
+     (if-food-ahead move (progn3 move (if-food-ahead
+         move (if-path-ahead go-around-wall (if-food-ahead
+         move move))) (sniff-for-food move go-around-wall)))
+     go-around-wall) move)))
+
+
+
+Generation 116
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 11.692 adjusted: 0.28716758 hits: 139.308
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=0.0 Adjusted=1.0 Hits=151
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn3 (if-food-ahead
+     move (if-path-ahead (sniff-for-food (if-food-ahead
+     move (if-food-ahead (progn2 (sniff-for-food
+     (progn2 (sniff-for-food (sniff-for-food (if-path-ahead
+         (if-food-ahead (progn3 go-around-wall move
+             go-around-wall) move) (if-food-ahead move
+         (if-path-ahead go-around-wall move))) (if-food-ahead
+         move move)) go-around-wall) move) go-around-wall)
+     move) move)) (progn2 (sniff-for-food (if-path-ahead
+     (sniff-for-food move go-around-wall) (if-path-ahead
+     (progn2 move (sniff-for-food move go-around-wall))
+     (if-food-ahead move move))) go-around-wall)
+     move)) (progn2 (sniff-for-food (progn2 move
+     (sniff-for-food move go-around-wall)) go-around-wall)
+     move))) (if-path-ahead go-around-wall (if-food-ahead
+     (sniff-for-food (if-food-ahead move move)
+         (if-path-ahead (sniff-for-food (if-path-ahead
+             (if-food-ahead (if-food-ahead move move)
+                 move) move) go-around-wall) move)) (progn2
+     (progn3 (if-food-ahead move (if-path-ahead
+         (progn2 move move) (progn3 go-around-wall
+         move go-around-wall))) (if-path-ahead (progn3
+         go-around-wall move go-around-wall) (sniff-for-food
+         (if-path-ahead (progn2 (if-food-ahead go-around-wall
+             move) go-around-wall) move) go-around-wall))
+         (progn2 (sniff-for-food (if-food-ahead go-around-wall
+             move) go-around-wall) move)) (if-path-ahead
+     go-around-wall (progn2 (sniff-for-food (if-food-ahead
+     move move) go-around-wall) move))))) (sniff-for-food
+     (progn2 (sniff-for-food (if-food-ahead move
+         (if-path-ahead (progn2 move (sniff-for-food
+             move go-around-wall)) (progn3 go-around-wall
+             move go-around-wall))) go-around-wall) move)
+     (if-food-ahead move (if-path-ahead (progn2
+         move (sniff-for-food move go-around-wall))
+         (sniff-for-food (if-path-ahead go-around-wall
+             move) go-around-wall))))) (if-food-ahead
+     move move)) (progn3 (if-food-ahead move (if-path-ahead
+     (progn2 move (sniff-for-food move go-around-wall))
+     (sniff-for-food (if-food-ahead move move)
+         (if-food-ahead move (progn2 (sniff-for-food
+             (if-path-ahead (if-food-ahead move move)
+                 (if-food-ahead move move)) go-around-wall)
+             move))))) (if-food-ahead (progn2 (sniff-for-food
+     (if-path-ahead (if-food-ahead move move)
+         move) go-around-wall) move) move) (progn2
+     (sniff-for-food (if-path-ahead (sniff-for-food
+         (sniff-for-food (sniff-for-food move go-around-wall)
+             (progn3 (if-food-ahead move (if-food-ahead
+                 move (progn3 go-around-wall (if-food-ahead
+                 move move) go-around-wall))) (sniff-for-food
+                 (sniff-for-food (if-food-ahead move move)
+                     move) (if-food-ahead go-around-wall move))
+                 move)) (progn3 (if-food-ahead move (if-path-ahead
+         (progn2 move (sniff-for-food move go-around-wall))
+         (sniff-for-food move go-around-wall))) (progn3
+         (if-food-ahead move (sniff-for-food (progn2
+             move go-around-wall) go-around-wall)) (if-path-ahead
+         (sniff-for-food go-around-wall (progn2 (sniff-for-food
+             (progn2 (progn2 (sniff-for-food (progn3 go-around-wall
+                 move go-around-wall) go-around-wall) move)
+                 move) move) move)) (if-food-ahead move move))
+         (progn2 (sniff-for-food move go-around-wall)
+             move)) (if-path-ahead (if-path-ahead go-around-wall
+         (if-food-ahead move move)) (progn3 go-around-wall
+         move go-around-wall)))) move) go-around-wall)
+     move)))
+
+Best Individual's Map
+=====================
+acde..................................................................
+...f..................................wxyzab..........................
+...g..................................v....c..........................
+...h..................................u....d..........................
+...ijklmnopqr...........fghijklmnopqrst....e..........................
+............s...........e..................f..........................
+............t...........d..................g..........................
+............u...........c..................h..........................
+............v...........b..................i..........................
+............w...........a..................j..........................
+............x...........z..................k..........................
+............y...........y..................l..........................
+............z...........x..................m..........................
+............a...........wv...........tsrqpon..........................
+............b......WWW+++u...........u................................
+............c......WWW...t...........v................................
+............d......WWW...s...........wxyza............................
+............e.......mnopqr........WWWWW++b............................
+............f.......l.............WWWWW..c............................
+............g.......k.............WWWWW..d............................
+............h.......j.............WWWWW..e............................
+............i.......i.............WWWWWhgf............................
+............j.......h................y.i..............................
+.vutsrqponmlk.......g................z.j..............................
+.w..................f................a.k..............................
+.x..................e................b.l..............................
+.y..................d................c.m..............................
+.z..................c...............sd.n..............................
+.a..................b..............gfepo..............................
+.b.....nopqrstuvwxyza..............hWWWWWW............................
+.c.....m...........................iWWWWWW............................
+.d.....l...........................jWWWWWW............................
+.efghijk....................tuvwxyzabcd...............................
+............................s......l+fe...............................
+............................r......m..................................
+............................q......n..................................
+............................p......o..................................
+............................o......p..................................
+............................n......q..................................
+............................m......r..................................
+............................l......s..................................
+............................k.yxwvut..................................
+............................j.z.......................................
+............................i.a.......................................
+............................h.b.......................................
+............................g.c.......................................
+............................f.d.......................................
+............................e.e.......................................
+............................d.f.......................................
+............................c+g.......................................
+............................b.h.......................................
+............................a.i.......................................
+............................z.j.......................................
+............................y.k.......................................
+............................x.l.......................................
+......................wvutsrw.m.......................................
+......................x....qvon.......................................
+......................y.....u.........................................
+......................z.....t.........................................
+......................a.....s.........................................
+......................b.....r.........................................
+......................c.....q.........................................
+......................d.....p.........................................
+......................e.....o.........................................
+......................f.....n.........................................
+......................ghijklm.........................................
+......................................................................
+......................................................................
+......................................................................
+......................................................................

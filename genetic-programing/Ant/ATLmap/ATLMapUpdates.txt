@@ -1,0 +1,151 @@
+Generation 0
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 73.92 adjusted: 0.013819748 hits: 10.08
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=18.0 Adjusted=0.05263158 Hits=66
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn2 (sniff-for-food
+     (progn2 go-around-wall go-around-wall) (progn3
+     go-around-wall move move)) (if-path-ahead
+     go-around-wall (if-food-ahead move move)))
+     move) (progn3 (if-food-ahead move (if-path-ahead
+     (if-food-ahead move move) (progn3 go-around-wall
+     move move))) go-around-wall (if-food-ahead
+     go-around-wall (if-path-ahead go-around-wall
+     go-around-wall))))
+
+Best Individual's Map
+=====================
+acde............W......s...c....
+...f............W......t...b....
+...g............W......uvuta++..
+...h............W......vwxyzab..
+...i...WWWWWWWWWWWWWWWWWWWr..c..
+...jklmnopqrs...W...klmnopq..d..
+............t...W...j........e..
+............u...W...i........f..
+............v...W...h........g..
+............w.......g........h..
+............xyzabcdsrqponmlkji..
+WWWWWWWWWWWWWWW....tWWWWWWWWWWWW
+............#......u+..qponmlk..
+............#....W.vyzarcde..j..
+............#....W.wx..s++fghi..
+............+...+W+++..t........
+............+...+W.....u........
+............#...+W.....v........
+............#...#W.....wxyza....
+............#...#W.........b....
+............#...#W.........c....
+........WWWWWWWWWWWWWWWWWW.d....
+............xwvutW.....ihgfe....
+............#...sW.....j........
+pq+##++#####+...rW.....k...klmno
+.r..............qW.....l...j....
+.s..............pW.....m...i....
+.t.....fghijklmnoW.....n...h....
+.u.....e.........W.....o...g....
+.v.....d.........W.....p...f....
+.wxyzabc.........W.....q...e....
+.................W.....r...d....
+Generation 1
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 63.312 adjusted: 0.016870817 hits: 20.688
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=18.0 Adjusted=0.05263158 Hits=66
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn2 (if-path-ahead
+     go-around-wall go-around-wall) (if-path-ahead
+     go-around-wall (if-food-ahead move move)))
+     move) (progn3 (if-food-ahead move (if-path-ahead
+     (if-food-ahead move move) (progn3 go-around-wall
+     move move))) go-around-wall (if-food-ahead
+     go-around-wall (if-path-ahead go-around-wall
+     go-around-wall))))
+
+Generation 2
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 55.944 adjusted: 0.020872854 hits: 28.056
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=18.0 Adjusted=0.05263158 Hits=66
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn2 (sniff-for-food
+     (progn2 (progn2 (if-food-ahead go-around-wall
+         move) (sniff-for-food go-around-wall go-around-wall))
+         (if-food-ahead (if-food-ahead move move)
+             (sniff-for-food move go-around-wall))) (progn3
+     go-around-wall move move)) (if-path-ahead
+     go-around-wall (progn3 move go-around-wall
+     go-around-wall))) move) (progn3 (if-food-ahead
+     move (if-path-ahead (if-food-ahead move move)
+     (progn3 go-around-wall move move))) go-around-wall
+     (if-food-ahead go-around-wall (if-path-ahead
+         go-around-wall go-around-wall))))
+Generation 3
+================
+
+Subpopulation 0
+----------------
+Mean fitness raw: 45.724 adjusted: 0.036290463 hits: 38.276
+
+Best Individual of Generation:
+Evaluated: true
+Fitness: Raw=0.0 Adjusted=1.0 Hits=84
+Tree 0:
+ (sniff-for-food (if-path-ahead (progn2 (sniff-for-food
+     (progn2 go-around-wall go-around-wall) (progn3
+     go-around-wall move move)) (if-path-ahead
+     go-around-wall (if-food-ahead move move)))
+     move) (if-path-ahead (if-food-ahead move
+     move) (progn3 go-around-wall move move)))
+
+Best Individual's Map
+=====================
+acde............W......s...c....
+...f............W......t...b....
+...g............W......uvuta++..
+...h............W......vwxyzab..
+...i...WWWWWWWWWWWWWWWWWWWr..c..
+...jklmnopqrs...W...klmnopq..d..
+............t...W...j........e..
+............u...W...i........f..
+............v...W...h........g..
+............w.......g........h..
+............xyzabcdsrqponmlkji..
+WWWWWWWWWWWWWWW....tWWWWWWWWWWWW
+...uvwxyzabcd......u+..qponmlk..
+...t........e....W.vyzarcde..j..
+...s........f....W.wx..s++fghi..
+...r........g...+W+++..t........
+...q........h...+W.....u........
+...p........i...+W.....v........
+...o........j...rW.....wxyza....
+...n........k...qW.........b....
+...m........lmnopW.........c....
+...l....WWWWWWWWWWWWWWWWWW.d....
+...k........xwvutW.....ihgfe....
+...j........y...sW.....j........
+pq+ihgfedcbaz...rW.....k...klmno
+.r..............qW.....l...j....
+.s..............pW.....m...i....
+.t.....fghijklmnoW.....n...h....
+.u.....e.........W.....o...g....
+.v.....d.........W.....p...f....
+.wxyzabc.........W.....q...e....
+.................W.....r...d....
+

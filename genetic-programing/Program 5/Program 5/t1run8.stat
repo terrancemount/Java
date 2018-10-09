@@ -1,0 +1,1205 @@
+
+Generation: 0
+Best Individual:
+Evaluated: T
+Fitness: 0.55
+ 1 0 0 0 1 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1
+
+Generation: 1
+Best Individual:
+Evaluated: T
+Fitness: 0.6
+ 1 1 0 1 1 0 0 0 1 1 0 0 1 0 1 1 1 0 1 1
+
+Generation: 2
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 1 1 0 1 1 0 1 1 0 1 0 1 1 0 1 0 1 1 1 1
+
+Generation: 3
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 1 0 1 0 1 1 0 1 0 1 1 0 1 1 1 1 1 1 0 1
+
+Generation: 4
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 1 0 1 0 1 1 0 1 0 1 1 0 1 1 1 1 1 1 0 1
+
+Generation: 5
+Best Individual:
+Evaluated: T
+Fitness: 0.6
+ 1 0 0 1 1 0 1 1 0 1 0 1 0 1 1 0 1 0 1 1
+
+Generation: 6
+Best Individual:
+Evaluated: T
+Fitness: 0.65
+ 1 1 1 0 0 0 1 1 0 1 1 1 1 1 1 0 1 1 0 0
+
+Generation: 7
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 0 0 1
+
+Generation: 8
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 0 0 1 1 1 1 1 0 1 1 1 1 0 1
+
+Generation: 9
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 0 1 1 1 0 1 1 0 1 1 1 1 0 1
+
+Generation: 10
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 0
+
+Generation: 11
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 0 1
+
+Generation: 12
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 0
+
+Generation: 13
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 0 1 1 1 1 1 1 0 1 0 1 0 1 1 1 1 1 1 1
+
+Generation: 14
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 0 0 1
+
+Generation: 15
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 0 1 0 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1
+
+Generation: 16
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 0 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 0 0 1
+
+Generation: 17
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 1 0 1 1 1 1 1 0 0 1 1 1 0 1
+
+Generation: 18
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 1 1 1 1 1 0 0 1 1 1 1 0 1 1 0 0 1
+
+Generation: 19
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1
+
+Generation: 20
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1
+
+Generation: 21
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 0
+
+Generation: 22
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1
+
+Generation: 23
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 1 1
+
+Generation: 24
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 0 1
+
+Generation: 25
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 0 1 1
+
+Generation: 26
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 0 1 1 1
+
+Generation: 27
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1
+
+Generation: 28
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1
+
+Generation: 29
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 0
+
+Generation: 30
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 0 0 1 0
+
+Generation: 31
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 0 1 1
+
+Generation: 32
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 0 1
+
+Generation: 33
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 0 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 0
+
+Generation: 34
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 1 1 1 1 0 1 0 1 1 1 1 1 1 1 0 1 0 0 0 1
+
+Generation: 35
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 0 0 1 0 1
+
+Generation: 36
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 0 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 1 1 0
+
+Generation: 37
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 1 1 0
+
+Generation: 38
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1
+
+Generation: 39
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 1 1 0 1 1 1 0 0 1 1 1 1 1 0 1 1 1
+
+Generation: 40
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 0 1 1 1 1 1 0 1 1 1 0 1 1 0 1 1 0 1 1 1
+
+Generation: 41
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1
+
+Generation: 42
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 0 1 1 1 1 1 1 0 1 1 1 1 0 0 1 1 0 1 1 0
+
+Generation: 43
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 1 1 0 1 1 0 1 1 0 1 1 1
+
+Generation: 44
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 1 1 0 1 1 0 1 1 0 1 1 1
+
+Generation: 45
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 0 1 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 1 1
+
+Generation: 46
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 0 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1
+
+Generation: 47
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 1 1 1 0 1 1 1 0 1 1 1 1 0 1 1 1
+
+Generation: 48
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 0 1 1 1
+
+Generation: 49
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 0 1 0 1 0 1 1 1 1 1 1 1
+
+Generation: 50
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 0 1
+
+Generation: 51
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 0 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1
+
+Generation: 52
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 0 1 1 1 1
+
+Generation: 53
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 1
+
+Generation: 54
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 0 1 1 1 1
+
+Generation: 55
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 0 1 1
+
+Generation: 56
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 0 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 0 1 0
+
+Generation: 57
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 0 1 1 1 1 1 1 1 0 0 1 1 1 0 1 1 1 0 1 1
+
+Generation: 58
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 0 1 1 1 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1 1
+
+Generation: 59
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 0 1 1 1 1 0 1 1 1 0 1 1 1 0 1 1 1 1 1 0
+
+Generation: 60
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 0
+
+Generation: 61
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 0 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 0 0
+
+Generation: 62
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 0
+
+Generation: 63
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 0 1 1
+
+Generation: 64
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0
+
+Generation: 65
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 0
+
+Generation: 66
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 0
+
+Generation: 67
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1
+
+Generation: 68
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 0
+
+Generation: 69
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1
+
+Generation: 70
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 0 1 1 1 0 0 1 1 0 1 1 1 1 1 1 1 1
+
+Generation: 71
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 0 1 1 1
+
+Generation: 72
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 0 1 1 1 0 0 1 1 0 1 1 1 1 1 1 1 1
+
+Generation: 73
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 0 1
+
+Generation: 74
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 0 0 1 1
+
+Generation: 75
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 0 0 1 0
+
+Generation: 76
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+
+Generation: 77
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 0 1 1 1
+
+Generation: 78
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+
+Generation: 79
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 0 0 1 0 1 1 1 0 1 1 1 1 1 1 1 1 1
+
+Generation: 80
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 0 1 1 1
+
+Generation: 81
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 0 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1
+
+Generation: 82
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+
+Generation: 83
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1
+
+Generation: 84
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 0 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1
+
+Generation: 85
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 0 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+
+Generation: 86
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 0 1 1 0 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+
+Generation: 87
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 0 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+
+Generation: 88
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 0 1 1 0 1 1 0 1 1 1 0 0 1 1 1 1 1 1 1
+
+Generation: 89
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 1 1 1 0 1
+
+Generation: 90
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 1 1 0 0 1 0 1 1 1 0 1 0 1 1 1 1 1 1 1 0
+
+Generation: 91
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 1 1 0 1 1 0 0 1 0 1 1 1 1 1 1 1 0
+
+Generation: 92
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 1 1
+
+Generation: 93
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 1 1 1 1 1 0 1 0 1 0 1 1 1 1 1 0 1 0 0 1
+
+Generation: 94
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 0 1 0 1 1 1 1 0 1 1 1 1 0 1 1
+
+Generation: 95
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1
+
+Generation: 96
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 0
+
+Generation: 97
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 0
+
+Generation: 98
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 1 1 0 1 1 1 1 0 1 1 1 1 0 1 1 1
+
+Generation: 99
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+
+Generation: 100
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 0 0 1
+
+Generation: 101
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 1
+
+Generation: 102
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 1 1 0 1 1 1 1 0 1 1 1 1 0 1 1 1
+
+Generation: 103
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1
+
+Generation: 104
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 0 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1
+
+Generation: 105
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 1 1 0 1 0 1 1 1 1 1 1 1 0 1 1 1
+
+Generation: 106
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 1 1 1 0 1 0 1 1 0 1 1 1 1 0 1 1 1
+
+Generation: 107
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 0 1 1
+
+Generation: 108
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 0 1 0 0 1 1 1 1 0 1 1 1 1 1 0 1 0 1 1 1
+
+Generation: 109
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 1 1 0 0 1 1 1 1 1 0 1 1 1 1 0 1 0 0 1 1
+
+Generation: 110
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 0 1 1 1 1 1 0 1 1 1 1 0 1 1 1 0 1
+
+Generation: 111
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1
+
+Generation: 112
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 1
+
+Generation: 113
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 1 1 1
+
+Generation: 114
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1
+
+Generation: 115
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1
+
+Generation: 116
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1
+
+Generation: 117
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 0 1
+
+Generation: 118
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 1 1 1 1
+
+Generation: 119
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 0 1 1 1 0 1 0 1 1 1 1 1 0 1
+
+Generation: 120
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 0 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+
+Generation: 121
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 1 1
+
+Generation: 122
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 0 1 1 1 1 1 0 0 1 1 1 1 1 0 1 1 1
+
+Generation: 123
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 1 1 0 1 1 0 1 1 0 1 0 1 1 0 1 1 1
+
+Generation: 124
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 1 1 0 1 1 0 1 1 0 1 0 1 1 0 1 1 1
+
+Generation: 125
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 1 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 1
+
+Generation: 126
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 1
+
+Generation: 127
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1
+
+Generation: 128
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+
+Generation: 129
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+
+Generation: 130
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 0 0 1 1 1 1 0 1 1 1 0 1 1 1 1
+
+Generation: 131
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1
+
+Generation: 132
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 0 1 1 0 1 1 1 1 1 1 0 1 1 1 1
+
+Generation: 133
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 0 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0
+
+Generation: 134
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 1
+
+Generation: 135
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 0 1 1 1 1
+
+Generation: 136
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0 0
+
+Generation: 137
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1 1
+
+Generation: 138
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 1 1 1 1
+
+Generation: 139
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1
+
+Generation: 140
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 1 1
+
+Generation: 141
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1
+
+Generation: 142
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1
+
+Generation: 143
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1
+
+Generation: 144
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 0 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1
+
+Generation: 145
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1
+
+Generation: 146
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1
+
+Generation: 147
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1
+
+Generation: 148
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1
+
+Generation: 149
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1
+
+Generation: 150
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1
+
+Generation: 151
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1
+
+Generation: 152
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 0 1 0 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+
+Generation: 153
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 1 1
+
+Generation: 154
+Best Individual:
+Evaluated: T
+Fitness: 0.95
+ 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+
+Generation: 155
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1
+
+Generation: 156
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 0 1
+
+Generation: 157
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 0 1 1 1 0 0 1 1 1 1 1 0 1 1
+
+Generation: 158
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 0 1 0 0 1 1 1 1 1 1 1 1
+
+Generation: 159
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 0 1 1 1 0 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1
+
+Generation: 160
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 0 1 1 1 1 0 0 1 1 1 1 1 1 1 1
+
+Generation: 161
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 0 1 1 1 1 0 0 1 1 1 1 1 1 1 1
+
+Generation: 162
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 0 1
+
+Generation: 163
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 0 1
+
+Generation: 164
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 0 1
+
+Generation: 165
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1
+
+Generation: 166
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1 1 0 0 1 1
+
+Generation: 167
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1
+
+Generation: 168
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 1
+
+Generation: 169
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 1 1 0 1 1
+
+Generation: 170
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1
+
+Generation: 171
+Best Individual:
+Evaluated: T
+Fitness: 0.9
+ 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1
+
+Generation: 172
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 1 1 0 1 1
+
+Generation: 173
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 1
+
+Generation: 174
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 0 0 0 1 1 1 1 0 1 1 1 1 1 1 0 1 1
+
+Generation: 175
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 0 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+
+Generation: 176
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 0 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+
+Generation: 177
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 1
+
+Generation: 178
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+Generation: 179
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 0 1 1
+
+Generation: 180
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 1 1
+
+Generation: 181
+Best Individual:
+Evaluated: T
+Fitness: 0.85
+ 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 1
+
+Generation: 182
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 0 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 1 1 1 1
+
+Generation: 183
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 0 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 1 1 1 1
+
+Generation: 184
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 0 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 1 1 1 1
+
+Generation: 185
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1 0 0 1 1
+
+Generation: 186
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 1 1 0 1 1 0 1 1 1 1 0 1 1 1 0 1 0 0 1 1
+
+Generation: 187
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1 0 0 0 1
+
+Generation: 188
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 0 0 1 1 1 0 1 1 1 1 1 1 1 0 1 0 0 1 1 1
+
+Generation: 189
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 0 1 1 0
+
+Generation: 190
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 0 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 1 1 0
+
+Generation: 191
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 0 1 1 1 1 0 1 0 1 1 1 1 1 1 1 0 0 1 1 0
+
+Generation: 192
+Best Individual:
+Evaluated: T
+Fitness: 0.7
+ 1 1 0 1 1 1 0 0 1 1 1 1 1 1 1 0 0 1 1 0
+
+Generation: 193
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 1 0 1 0 0 1 1 0 1 1 1 1 1 1 1 1 1
+
+Generation: 194
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 1 0 1 0 0 1 1 0 1 1 1 1 1 1 1 1 1
+
+Generation: 195
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 1 1 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1
+
+Generation: 196
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1
+
+Generation: 197
+Best Individual:
+Evaluated: T
+Fitness: 0.75
+ 1 1 0 1 0 1 0 0 1 1 0 1 1 1 1 1 1 1 1 1
+
+Generation: 198
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 1 1 1 1 0 0 1 1 0 1 1 1 1 0 1 1 1 1
+
+Generation: 199
+Best Individual:
+Evaluated: T
+Fitness: 0.8
+ 1 1 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1
+
+Best Individual of Run:
+Evaluated: T
+Fitness: 0.95
+ 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
